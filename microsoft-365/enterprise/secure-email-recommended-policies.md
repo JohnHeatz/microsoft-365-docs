@@ -65,11 +65,15 @@ This policy prevents ActiveSync clients from bypassing other conditional access 
 
 9. For **Configure**, select **Yes**. Check only the following: **Mobile apps and desktop clients** and **Exchange ActiveSync clients**. Choose **Done**.
 
-10. Choose **Grant** from the **Access controls** section.
+10. Choose **Device platforms**.
 
-11. Choose **Grant access**, select **Require approved client app**.  For multiple controls, select **Require the selected controls**, then choose **Select**. 
+11. For **Configure**, select **Yes**. Check only the following: **Android, iOS** and **Windows Phone**.
 
-12. Choose **Create**.
+12. Choose **Grant** from the **Access controls** section.
+
+13. Choose **Grant access**, select **Require approved client app**.  For multiple controls, select **Require the selected controls**, then choose **Select**. 
+
+14. Choose **Create**.
 
 ## Setup Office 365 message encryption
 With the new Office 365 Message Encryption (OME) capabilities, which leverage the protection features in Azure Information Protection, your organization can easily share protected email with anyone on any device. Users can send and receive protected messages with other Office 365 organizations as well as non-Office 365 customers using Outlook.com, Gmail, and other email services.
